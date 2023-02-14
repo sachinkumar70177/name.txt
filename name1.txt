@@ -1,0 +1,3 @@
+my into;
+my name is sachin // console.log("sachin kumar");
+my age is 24// console.log(25-1);
